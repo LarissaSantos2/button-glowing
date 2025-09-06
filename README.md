@@ -17,4 +17,5 @@ O botão apresenta um **brilho animado multicolorido** que se ativa ao passar o 
 2. Abra o arquivo **index.html** em qualquer navegador.  
 
 ```bash
-git clone https://github.com/seu-usuario/button-glowing.git
+https://larissasantos2.github.io/button-glowing/
+
