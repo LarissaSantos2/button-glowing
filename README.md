@@ -1,6 +1,6 @@
 # ✨ Botão Glow em CSS
 
-Este projeto é um **botão estilizado com efeito glow (neon)** desenvolvido como parte de estudo e prática em **HTML e CSS**.  
+Este projeto é um **botão estilizado com efeito glow (neon)** desenvolvido como parte de estudo e prática em **HTML5 e CSS3**.  
 O botão apresenta um **brilho animado multicolorido** que se ativa ao passar o mouse.
 
 ## 🖥️ Funcionalidades
